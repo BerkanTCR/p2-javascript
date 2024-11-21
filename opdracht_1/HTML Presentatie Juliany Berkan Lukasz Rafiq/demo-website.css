@@ -1,0 +1,14 @@
+h1 {
+    color: green;
+  }
+
+p {
+    font-family: Arial,bold; 
+    font-size: 24px;
+    color: #000000;
+    font-style:italic
+  }
+
+  body {
+    background-image: url("/img/c6bb2a54-c9bd-4f94-a516-c2f8c5761422.jpg");
+   }
