@@ -1,13 +1,11 @@
-const winkelmand = ["Bananen", "Whiskey", "Chips", "Bonen"];
+let winkelmand = [];
 
-let size = winkelmand.length;
+winkelmand.push("Bananen");
+winkelmand.push("Whiskey")
+winkelmand.push("Chips")
+winkelmand.push("Bonen")
+winkelmand.push("Aardappelen")
 
-console.log(winkelmand)
+console.log(fruit.length);
 
-document.getElementById("opdr1").innerHTML = size;
-
-console.log(winkelmand)
-
-
-document.getElementById("opdr2").innerHTML = 
 
