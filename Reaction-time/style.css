@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+h1 {
+  color:white;
+  font-size: 3.5rem;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    flex-direction: column;
+}
+
+button {
+border: none;
+border-radius: 0.5 rem;
+background-color: white;
+width: 10rem;
+height: 5rem;
+font-size: 2rem;
+text-transform: uppercase;
+color:blue;
+cursor: pointer;
+}
