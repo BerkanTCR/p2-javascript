@@ -10,14 +10,15 @@ body {
 }
 
 .game {
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 400px;
     background-color: #eee;
     position: relative;
 }
 
 .game-over {
-    display: none;
+
+
 }
 
 .dinosaur {
